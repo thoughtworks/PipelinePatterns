@@ -4,7 +4,7 @@ You have a very active pipeline that is producing a lot of artifacts. This is sl
 
 ** How can you retain the important artifacts while archiving or deleting the others? **
 
-![Diagram](/imgs/imgs/layered_with_repo.png)
+![Diagram](http://thoughtworks.github.io/PipelinePatterns/imgs//layered_with_repo.png)
 
 The layered pattern can easily be enhanced by adding a separate artifact repository for each layer. The stage that promotes from one layer to the next becomes responsible for pushing artifacts from one layer to the next.
 

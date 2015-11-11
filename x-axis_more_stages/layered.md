@@ -5,7 +5,7 @@ You want to encourage testing to happen in parallel stages but you want the pipe
 ** How can you encourage simple parallel pipelines without tight coupling? **
 
 
-![Diagram](/imgs/imgs/layered.png)
+![Diagram](http://thoughtworks.github.io/PipelinePatterns/imgs//layered.png)
 
 The layered pipeline pattern strongly encourages testing to happen in parallel, but discourages direct dependencies between test stages.
 

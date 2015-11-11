@@ -5,7 +5,7 @@ You had a simple pipeline but many stages are starting to be added for to suppor
 **How do you keep the time to production short?**
 
 
-![Diagram](/imgs/imgs/parallel.png)
+![Diagram](http://thoughtworks.github.io/PipelinePatterns/imgs//parallel.png)
 
 Run stages in parallel when possible. If two or more activities are orthogonal, like scanning for security vulnerabilities, testing performance, and running a suite of functional regression tests, you should be able to perform those activities simultaneously.
 

@@ -4,7 +4,7 @@ You have information radiators or other dashboards that show information from yo
 
 ** How do you make the version label of every pipeline meaningful, so users can easily big the gaps are between pipeline runs or versions being deployed to different environments? **
 
-![Diagram](/imgs/imgs/propagating_labels.png)
+![Diagram](http://thoughtworks.github.io/PipelinePatterns/imgs//propagating_labels.png)
 
 Propagate the version label downstream. Once you have created a meaningful version number, pass that version downstream and use it as the label for all subsequent pipelines.
 

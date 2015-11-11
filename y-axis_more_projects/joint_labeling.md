@@ -4,7 +4,7 @@ You have a pipeline that depends on multiple upstream pipelines or materials wit
 
 ** How do you produce a meaningful label reflecting multiple materials? **
 
-![Diagram](/imgs/imgs/joint_labels.png)
+![Diagram](http://thoughtworks.github.io/PipelinePatterns/imgs//joint_labels.png)
 
 You can use the joint labeling pattern. This makes a compound label by joining the versions with a separator like '-'.
 

@@ -4,7 +4,7 @@ You have several related projects/applications that all have their own meaningfu
 
 ** How can you fan these in and still keep propagating a meaningful version on pipeline & environment labels? **
 
-![Diagram](/imgs/imgs/aggregate_labels.png)
+![Diagram](http://thoughtworks.github.io/PipelinePatterns/imgs//aggregate_labels.png)
 
 Aggregate versioning is an alternative to joint labeling. It takes multiple versions and creates a new version to represent the group. Often this is combined with an aggregate manifest or artifact to represent the group.
 
