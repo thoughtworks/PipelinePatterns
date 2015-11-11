@@ -1,4 +1,4 @@
-# PipelinePatterns
+# Pipeline Patterns
 Community library of software delivery pipeline patterns
 
 ## Contributing
