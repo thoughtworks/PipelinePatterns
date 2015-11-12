@@ -1,6 +1,8 @@
 # Pipeline Patterns
 Community library of software delivery pipeline patterns
 
+Relelated talk: https://speakerdeck.com/maxamg/maxistentialism-pipeline-patterns
+
 ## Contributing
 This is a collaborative space for sharing ideas and opinions on specific pipeline patterns. Treat it as an evolving knowledge base; a resource to turn to when in doubt.
 
